@@ -1,0 +1,39 @@
+# Odin Project Sign-Up Page
+
+This is a sign-up page project for the Odin Project curriculum. The goal of this project is to create a simple sign-up page using HTML and CSS.
+
+## Project Description
+
+In this project, you will create a sign-up page that allows users to register for an account. The page should include the following elements:
+
+- Input fields for the user's name, email address, and password
+- A "Sign Up" button to submit the form
+- Optional: Additional form validation or error handling
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Start coding!
+
+## Resources
+
+Here are some resources that may be helpful for completing this project:
+
+- [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
